@@ -1,1 +1,1 @@
-# CE259-PIP-Assignments
+# CE259-PIP-Practicals
